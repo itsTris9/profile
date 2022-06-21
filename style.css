@@ -1,0 +1,94 @@
+
+h1 {
+  color: #827397;
+  font-family: 'Boogaloo', cursive;
+  text-align: center;
+}
+
+
+h2 {
+  color:darkslateblue;
+  font-size: larger;
+  font-family: 'Boogaloo', cursive;
+  text-align: center;
+}
+
+h3 {
+  color: 827397;
+  font-family: 'Boogaloo', cursive;
+  text-align: center;
+}
+
+.img-circle {
+  border-radius: 60%;
+}
+
+.img-smth {
+  border-radius: 5px;
+}
+
+
+body {
+  margin: auto;
+  padding: 50px;
+  background-color: #EAEAEA;
+}
+
+/* .card {
+  border-radius: 20px;
+  width: 800px;
+  margin: 0 auto;
+  background: white;
+  padding: 15px 0;
+  border: 1px solid lightgrey;
+  text-align: center;
+  justify-content: space-around;
+} */
+
+#food {
+  width: 800px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  justify-content: space-around;
+}
+
+.foodpics {
+  /* display: flex; */
+  /* justify-content: space-evenly; */
+}
+
+#intdes {
+  width: 800px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  justify-content: space-around;
+}
+
+
+p {
+  color: #827397;
+  font-family: 'Boogaloo', cursive;
+  text-align: center;
+  font-size: large;
+}
+
+a {
+  font-weight: bold;
+  text-decoration: none;
+  color: #827397;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  font-size: x-large;
+  padding: 0;
+}
+
+a:hover {
+  color:darkslateblue;
+}
